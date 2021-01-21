@@ -1,10 +1,10 @@
 {
   "numberOfCoins": 5,
-  "selectLike": 0,
+  "selectLike": 1,
   "monthEndAutoCharge": true,
   "giveGift": true,
-  "upLive": "0",
-  "chargeForLove": "0",
+  "upLive": "46708782",
+  "chargeForLove": "46708782",
   "devicePlatform": "ios",
   "coinAddPriority": 1,
   "skipDailyTask": false,
