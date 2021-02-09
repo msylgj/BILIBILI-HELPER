@@ -23,7 +23,7 @@ public class ServerPush {
             pushToken = ServerVerify.getFtkey();
         }
 
-        String url = ApiList.ServerPush + pushToken + ".send";
+        String url = ApiList.ServerPushV2 + pushToken + ".send";
 
         String pushBody = "text=" + text + "&desp=" + desp;
         int retryTimes = 3;
